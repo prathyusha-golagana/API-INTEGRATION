@@ -55,18 +55,12 @@ This project is ideal for beginners learning how to work with APIs, build respon
 ---
 
 
-##  Project Structure
-
-```bash
-
-├── index.html        # Main webpage
-
-├── script.js         # JavaScript logic to fetch and display weather
-
-└── README.md         # Project description and documentation
-
-
 
 ##OUTPUT
 
+**OUTPUT*
+
 ![Image](https://github.com/user-attachments/assets/635e46f9-9ad3-4517-ab23-7ad034c96dbd)
+
+
+
